@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Дипломчик\Дипломчик\bin\Debug\Дипломчик.exe.config
+C:\Users\user\source\repos\Дипломчик\Дипломчик\bin\Debug\Дипломчик.exe
+C:\Users\user\source\repos\Дипломчик\Дипломчик\bin\Debug\Дипломчик.pdb
+C:\Users\user\source\repos\Дипломчик\Дипломчик\obj\Debug\Дипломчик.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Дипломчик\Дипломчик\obj\Debug\Дипломчик.Form1.resources
+C:\Users\user\source\repos\Дипломчик\Дипломчик\obj\Debug\Дипломчик.Properties.Resources.resources
+C:\Users\user\source\repos\Дипломчик\Дипломчик\obj\Debug\Дипломчик.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\Дипломчик\Дипломчик\obj\Debug\Дипломчик.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Дипломчик\Дипломчик\obj\Debug\Дипломчик.exe
+C:\Users\user\source\repos\Дипломчик\Дипломчик\obj\Debug\Дипломчик.pdb
